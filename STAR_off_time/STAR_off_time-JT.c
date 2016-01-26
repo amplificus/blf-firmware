@@ -1,4 +1,7 @@
 /* STAR_off_time version 1.2
+ * 
+ * Code modified by Amplificus for personal applications and testing. Code can be unstable at any time so USE WITH CAUTION!
+ * Credit to JohnnyC (JCapSolutions), found on budgetlightforums.com. Thread located here: http://budgetlightforum.com/node/29150
  *
  * Changelog
  *
@@ -73,7 +76,7 @@
 
 #define MODE_MOON			3	// Can comment out to remove mode, but should be set through soldering stars
 #define MODE_LOW			14  // Can comment out to remove mode
-#define MODE_MED			39	// Can comment out to remove mode
+//#define MODE_MED			39	// Can comment out to remove mode
 //#define MODE_HIGH			255	// Can comment out to remove mode
 #define MODE_TURBO			255	// Can comment out to remove mode
 #define MODE_TURBO_LOW		140	// Level turbo ramps down to if turbo enabled
